@@ -12,3 +12,9 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Ignore art assets
+!/Content/UnrealSurvivors/
+/Content/UnrealSurvivors/*
+!/Content/UnrealSurvivors/Core/
+!/Content/UnrealSurvivors/Maps/
