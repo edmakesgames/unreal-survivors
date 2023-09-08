@@ -17,6 +17,7 @@ Saved
 Plugins
 
 # Ignore art assets
+Content
 !/Content/UnrealSurvivors/
 /Content/UnrealSurvivors/*
 !/Content/UnrealSurvivors/Core/
